@@ -1,0 +1,51 @@
+Music Player
+
+A web music player made by Shivam Rao
+
+
+
+#---------- TOP APP BAR ----------#
+
+<span class="material-symbols-rounded">graphic_eq</span>
+
+Music Player
+
+<span class="material-symbols-rounded">queue_music</span>
+
+
+
+#---------- PLAYER ----------#
+
+alt = Shivam Rao
+
+Tujhme rab dikhta hai
+
+Shivam Rao
+2023
+
+Shreya Ghoshal aur Roop Kumar Rathod
+
+0:00
+1:00
+
+<span class="material-symbols-rounded">volume_up</span>
+
+<span class="material-symbols-rounded">repeat</span>
+<span class="material-symbols-rounded active-icon">repeat_one</span>
+
+<span class="material-symbols-rounded">skip_previous</span>
+
+<span class="material-symbols-rounded">play_arrow</span>
+<span class="material-symbols-rounded active-icon">pause</span>
+
+<span class="material-symbols-rounded">skip_next</span>
+
+<span class="material-symbols-rounded">shuffle</span>
+
+
+
+#---------- PLAYLIST ----------#
+
+alt = Shivam Rao
+
+<span class="material-symbols-rounded">equalizer</span>
